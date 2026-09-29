@@ -61,19 +61,23 @@ Business Insights
 
 ### Executive Overview
 
-[Insert screenshot]
+<img width="1257" height="686" alt="Executive_Summary" src="https://github.com/user-attachments/assets/85c7ca11-307d-4a9f-ad71-882199f1b56f" />
+
 
 ### Customer Analytics
 
-[Insert screenshot]
+<img width="1214" height="666" alt="Customer_Analytics" src="https://github.com/user-attachments/assets/42cdeb87-7087-4fda-9aed-c9b8eb642887" />
+
 
 ### Product & Sales Analytics
 
-[Insert screenshot]
+<img width="1181" height="655" alt="Product   Sales Analytics" src="https://github.com/user-attachments/assets/9f71631d-0a2a-4809-af7a-9ebb04057e41" />
+
 
 ### Business Insights & Recommendations
 
-[Insert screenshot]
+<img width="1176" height="652" alt="Bussiness Insights" src="https://github.com/user-attachments/assets/b146e4f7-c50a-42d3-aad7-629289dc5292" />
+
 
 ## Project Structure
 
