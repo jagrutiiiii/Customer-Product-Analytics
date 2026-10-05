@@ -79,12 +79,3 @@ Business Insights
 <img width="1176" height="652" alt="Bussiness Insights" src="https://github.com/user-attachments/assets/b146e4f7-c50a-42d3-aad7-629289dc5292" />
 
 
-## Project Structure
-
-...
-
-## Skills Demonstrated
-
-Python, SQL, Excel, Power BI, DAX, Data Cleaning,
-Exploratory Data Analysis, KPI Analysis, Customer Segmentation,
-Business Analysis and Data Visualization.
